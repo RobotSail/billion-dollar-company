@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: myspace-2
+  description: MySpace except better
+spec:
+  type: website
+  lifecycle: production
+  owner: myspace-team
